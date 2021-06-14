@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sniffingsugar
+- 👀 I’m interested in all kinds of new programming langs.
+- 🌱 I’m currently learning Pentesting .
+- 📫 How to reach me?
+  - XMPP: phil@ucode.space
+  - Mail: phil@ucode.space (No PGP)
