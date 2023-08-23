@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sniffingsugar
 - 👀 I’m interested in all kinds of new programming langs.
 - 🌱 I’m currently learning Pentesting .
-- 🔥 Mostly on my own [Gitea instance](https://gitea.hackmi.ch/Phil)
+- 🔥 Mostly on my own [Gitea instance](https://git.hackmi.ch/Phil)
 - 📫 How to reach me?
   - Mail: [phil@ucode.space](mailto://phil@ucode.space)
   - Discord: $niffing₽aint#6638
