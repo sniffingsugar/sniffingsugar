@@ -4,4 +4,3 @@
 - 🔥 Mostly on my own [Gitea instance](https://git.hackmi.ch/Phil)
 - 📫 How to reach me?
   - Mail: [phil@ucode.space](mailto://phil@ucode.space)
-  - Discord: $niffing₽aint#6638
