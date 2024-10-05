@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sniffingsugar
 - 👀 I’m interested in all kinds of new programming langs.
 - 🌱 I’m currently learning Pentesting .
-- 🔥 Mostly on my own [Gitea instance](https://git.hackmi.ch/Phil)
+- 🔥 Mostly on my own [Forgejo](https://git.hackmi.ch/Phil)
 - 📫 How to reach me?
-  - Mail: [phil@ucode.space](mailto://phil@ucode.space)
+  - Mail: [phil@hackmi.ch](mailto://phil@hackmi.ch)
+  - [GPG KEY](https://keyserver.ubuntu.com/pks/lookup?search=phil%40hackmi.ch&fingerprint=on&op=index)
