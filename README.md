@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @sniffingsugar
-- 👀 I’m interested in all kinds of new programming langs.
-- 🌱 I’m currently learning Pentesting .
-- 🔥 Mostly on my own [Forgejo](https://git.hackmi.ch/Phil)
-- 📫 How to reach me?
-  - Mail: [phil@hackmi.ch](mailto://phil@hackmi.ch)
-  - [GPG KEY](https://keyserver.ubuntu.com/pks/lookup?search=phil%40hackmi.ch&fingerprint=on&op=index)
+# Hey, I'm Phil
+
+I'm interested in all kinds of new programming languages and currently learning pentesting.
+
+Most of my work lives on my own [Forgejo instance](https://git.hackmi.ch/Phil).
+
+## Get in touch
+
+| Channel | Link |
+|---------|------|
+| Email | [phil@hackmi.ch](mailto:phil@hackmi.ch) |
+| GPG Key | [Ubuntu Keyserver](https://keyserver.ubuntu.com/pks/lookup?search=phil%40hackmi.ch&fingerprint=on&op=index) |
